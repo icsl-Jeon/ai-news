@@ -12,6 +12,9 @@ https://diffusiondigest.beehiiv.com/p/flux-optimizations-darth-vaders-ai-voice-3
 ### Music 
 https://mix.audio/home
 
-## Opensource Models
+## Open-source Models
 ### Video
 https://github.com/hpcaitech/Open-Sora
+
+## Open-source Acceleration 
+https://github.com/sayakpaul/diffusers-torchao?tab=readme-ov-file
