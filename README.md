@@ -9,6 +9,9 @@
 ### Image 
 - https://diffusiondigest.beehiiv.com/p/flux-optimizations-darth-vaders-ai-voice-3d-ai-tools-week-ai-art
 
+### Avatar
+- https://rendernet.ai
+
 ### Music 
 - https://mix.audio/home
 
