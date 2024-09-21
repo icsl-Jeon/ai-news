@@ -1,4 +1,4 @@
-## News in generative AI (image and video)
+## Industry News in generative AI (image and video)
 
 ### Fliming 
 https://challenges.reply.com/ai-film-festival/home/
@@ -15,6 +15,7 @@ https://mix.audio/home
 ## Open-source Models
 ### Video
 https://github.com/hpcaitech/Open-Sora
+https://id-animator.github.io/
 
 ## Open-source Acceleration 
 https://github.com/sayakpaul/diffusers-torchao?tab=readme-ov-file
