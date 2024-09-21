@@ -1,6 +1,8 @@
-# AI news in generative vision (image and video)
+# News in generative AI (image and video)
 
-## Fliming
+## Fliming 
 
 https://challenges.reply.com/ai-film-festival/home/
 
+## Music 
+https://mix.audio/home
