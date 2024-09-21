@@ -18,4 +18,4 @@
 - https://id-animator.github.io/
 
 ## Open-source Acceleration 
-https://github.com/sayakpaul/diffusers-torchao?tab=readme-ov-file
+- https://github.com/sayakpaul/diffusers-torchao?tab=readme-ov-file
