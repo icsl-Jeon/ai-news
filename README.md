@@ -1,13 +1,17 @@
-# News in generative AI (image and video)
+## News in generative AI (image and video)
 
-## Fliming 
+### Fliming 
 https://challenges.reply.com/ai-film-festival/home/
 
-## Photography
+### Photography
 [I'm officially moving my remote photography gig to FLUX](https://www.reddit.com/r/StableDiffusion/comments/1fdsuyb/im_officially_moving_my_remote_photography_gig_to/?utm_source=diffusiondigest.beehiiv.com&utm_medium=referral&utm_campaign=flux-optimizations-darth-vader-s-ai-voice-3d-ai-tools-this-week-in-ai-art)
 
-## Image 
+### Image 
 https://diffusiondigest.beehiiv.com/p/flux-optimizations-darth-vaders-ai-voice-3d-ai-tools-week-ai-art
 
-## Music 
+### Music 
 https://mix.audio/home
+
+## Opensource Models
+### Video
+https://github.com/hpcaitech/Open-Sora
